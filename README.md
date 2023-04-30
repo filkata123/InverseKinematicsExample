@@ -34,4 +34,5 @@ This target object is used as an IK effector, which will update the pose of the 
 
 # Inspiration from
 Rigging of hand - [Inverse Kinematics Unity Tutorial in 3 minutes](https://www.youtube.com/watch?v=TUBHvQ2XEJs)
+  
 Feet functionality - [REALISTIC Foot Placement Using IK in Unity](https://www.youtube.com/watch?v=rGB1ipH6DrM&t=1s)
